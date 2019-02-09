@@ -1,6 +1,6 @@
-MRuby::Gem::Specification.new('mruby-complex') do |spec|
+MRuby::Gem::Specification.new('pins-mruby-complex') do |spec|
   spec.license = 'MIT'
   spec.authors = 'Paolo Bosetti paolo.bosetti@unitn.it'
-  
-  add_dependency 'mruby-math'
+
+  ## add_dependency 'mruby-math'
 end
